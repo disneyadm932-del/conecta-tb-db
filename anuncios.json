@@ -35,7 +35,17 @@
     "categoria": "servicos",
     "descricao": "wsewe",
     "telefone": "wewewewwe",
-    "status": "pendente",
+    "status": "aprovado",
+    "pago": false,
+    "dataExpiracao": "2026-01-15"
+  },
+  {
+    "id": 1767219749662,
+    "titulo": "simone",
+    "categoria": "vendas",
+    "descricao": "weewe",
+    "telefone": "429999we9w",
+    "status": "aprovado",
     "pago": false,
     "dataExpiracao": "2026-01-15"
   }
