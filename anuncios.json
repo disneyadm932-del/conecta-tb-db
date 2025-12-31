@@ -1,1 +1,42 @@
-
+[
+  {
+    "id": 1767218593869,
+    "titulo": "bicicleta ",
+    "categoria": "vendas",
+    "descricao": "wewew",
+    "telefone": "4298999999",
+    "status": "aprovado",
+    "pago": false,
+    "dataExpiracao": "2026-01-15"
+  },
+  {
+    "id": 1767218819749,
+    "titulo": "bicicleta ",
+    "categoria": "vendas",
+    "descricao": "werwe",
+    "telefone": "4298999999",
+    "status": "aprovado",
+    "pago": false,
+    "dataExpiracao": "2026-01-15"
+  },
+  {
+    "id": 1767219036445,
+    "titulo": "carro",
+    "categoria": "vendas",
+    "descricao": "werr",
+    "telefone": "4298999998",
+    "status": "aprovado",
+    "pago": false,
+    "dataExpiracao": "2026-01-15"
+  },
+  {
+    "id": 1767219842310,
+    "titulo": "simone",
+    "categoria": "vagas",
+    "descricao": "wewew",
+    "telefone": "429999we9w",
+    "status": "pendente",
+    "pago": false,
+    "dataExpiracao": "2026-01-15"
+  }
+]
