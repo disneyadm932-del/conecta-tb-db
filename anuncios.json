@@ -30,22 +30,12 @@
     "dataExpiracao": "2026-01-15"
   },
   {
-    "id": 1767219656686,
+    "id": 1767219842310,
     "titulo": "simone",
-    "categoria": "servicos",
-    "descricao": "wsewe",
-    "telefone": "wewewewwe",
-    "status": "aprovado",
-    "pago": false,
-    "dataExpiracao": "2026-01-15"
-  },
-  {
-    "id": 1767219749662,
-    "titulo": "simone",
-    "categoria": "vendas",
-    "descricao": "weewe",
+    "categoria": "vagas",
+    "descricao": "wewew",
     "telefone": "429999we9w",
-    "status": "aprovado",
+    "status": "pendente",
     "pago": false,
     "dataExpiracao": "2026-01-15"
   }
